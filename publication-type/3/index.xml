@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>https://linyouhong.com/publication-type/3/</link>
+      <atom:link href="https://linyouhong.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2020 10:16:59 +0800</lastBuildDate>
+    <image>
+      <url>https://linyouhong.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://linyouhong.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>The Fractured-Land Hypothesis</title>
+      <link>https://linyouhong.com/publication/fracturedland/</link>
+      <pubDate>Tue, 22 Sep 2020 10:16:59 +0800</pubDate>
+      <guid>https://linyouhong.com/publication/fracturedland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Effects of Early-Life Exposure to Tropical Cyclones</title>
+      <link>https://linyouhong.com/publication/typhoon/</link>
+      <pubDate>Wed, 22 Apr 2020 10:16:59 +0800</pubDate>
+      <guid>https://linyouhong.com/publication/typhoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary care and health in rural China (1960s–1970s)</title>
+      <link>https://linyouhong.com/publication/primarycare/</link>
+      <pubDate>Sun, 22 Mar 2020 10:16:59 +0800</pubDate>
+      <guid>https://linyouhong.com/publication/primarycare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Drought on Infant Mortality in China</title>
+      <link>https://linyouhong.com/publication/drought/</link>
+      <pubDate>Sun, 22 Sep 2019 10:16:59 +0800</pubDate>
+      <guid>https://linyouhong.com/publication/drought/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

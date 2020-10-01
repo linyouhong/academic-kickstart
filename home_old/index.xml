@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home_olds | Academic</title>
+    <link>https://linyouhong.com/home_old/</link>
+      <atom:link href="https://linyouhong.com/home_old/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home_olds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linyouhong.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Home_olds</title>
+      <link>https://linyouhong.com/home_old/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://linyouhong.com/home_old/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://linyouhong.com/home_old/about/</guid>
+      <description>&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+&lt;p&gt;​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Guangzhou. My current research interests are in the field of development economics, political economics and economic history.&lt;/p&gt;
+&lt;p&gt;In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the importance of water resource for health and economic development. Disease and Economic Development is also my interested field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://linyouhong.com/home_old/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <guid>https://linyouhong.com/home_old/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Awards</title>
+      <link>https://linyouhong.com/home_old/academicawards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://linyouhong.com/home_old/academicawards/</guid>
+      <description>&lt;p&gt;2017 Nandu Awards for the Best Paper of Quantitative History (Henan)&lt;/p&gt;
+&lt;p&gt;2015 Nandu Awards for the Best Paper of Quantitative History (Beijing)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://linyouhong.com/home_old/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://linyouhong.com/home_old/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
